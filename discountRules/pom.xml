@@ -16,14 +16,14 @@
       <repository>
 	<id>nexus</id>
 	<name>nexus</name>
-        <url>http://nexus.tooling.svc.cluster.local:8081/content/groups/forum</url>	
+        <url>http://nexus.cloudapps.example.com/content/groups/forum</url>	
 </repository>
   </repositories>
     <pluginRepositories>
 	<pluginRepository>
         <id>nexus</id>
         <name>nexus</name>
-<url>http://nexus.tooling.svc.cluster.local:8081/content/groups/forum</url>
+<url>http://nexus.cloudapps.example.com/content/groups/forum</url>
 </pluginRepository>
 </pluginRepositories>
   <build>
