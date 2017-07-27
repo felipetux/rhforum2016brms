@@ -11,7 +11,7 @@
     <repository>
       <id>guvnor-m2-repo</id>
       <name>Guvnor M2 Repo</name>
-      <url>hhttp://business-central.cloudapps.example.com/business-central/maven2/</url>
+      <url>http://business-central.cloudapps.example.com/business-central/maven2/</url>
     </repository>
       <repository>
 	<id>nexus</id>
